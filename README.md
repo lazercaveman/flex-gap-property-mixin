@@ -121,15 +121,8 @@ The gap within the flexGap-Mixin can be setted up as a static value (pixel, rem)
 
 
 
-## See some example on CodePen
+## Conclusion
 
-Here is some demonstration/example of how to use this — just play around, fork, comment, like — do what ever you want with [this pen](https://codepen.io/lazercaveman/pen/bGbMZgd).
-
-<iframe height="800" style="width: 100%;" scrolling="no" title="Experimental Flex-Gap Mixins " src="//codepen.io/lazercaveman/embed/bGbMZgd/?height=265&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/lazercaveman/pen/bGbMZgd/'>Experimental Flex-Gap Mixins </a> by Ali Soueidan
-  (<a href='https://codepen.io/lazercaveman'>@lazercaveman</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
-
-The flexGap-Mixin is very small, easy to use and it adds some additional functionality to Flexbox — if you would add some functionality or change any of its attribute just let me know how and why— if you’d like to use it just go for ist!
+Here is some demonstration/example of how to use this — just play around, fork, comment, like — do what ever you want with [this pen](https://codepen.io/lazercaveman/pen/bGbMZgd). The flexGap-Mixin is very small, easy to use and it adds some additional functionality to Flexbox — if you would add some functionality or change any of its attribute just let me know how and why— if you’d like to use it just go for ist!
 
 👏 If you found this article entertaining or helpful just leave a like, comment or share this article - just as you like...
