@@ -1,0 +1,20 @@
+.test > .aClass {
+  margin: 0 5px; }
+  .test > .aClass:first-child {
+    margin-left: 0; }
+  .test > .aClass:last-child {
+    margin-right: 0; }
+
+.test > .anotherClass {
+  margin: 0 10px; }
+  .test > .anotherClass:first-child {
+    margin-left: 0; }
+  .test > .anotherClass:last-child {
+    margin-right: 0; }
+
+.test > .oneMoreClass {
+  margin: 0 15px; }
+  .test > .oneMoreClass:first-child {
+    margin-left: 0; }
+  .test > .oneMoreClass:last-child {
+    margin-right: 0; }

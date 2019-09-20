@@ -1,0 +1,14 @@
+=flexGap( $gap, $direction: row, $element: div )
+  > #{$element}
+    @if $direction == row
+      margin: 0 $gap/2
+      &:first-child
+        margin-left: 0
+      &:last-child
+        margin-right: 0
+    @if $direction == column
+      margin: $gap/2 0
+      &:first-child
+        margin-top: 0
+      &:last-child
+        margin-bottom: 0
