@@ -14,7 +14,7 @@ I am so sorry to tell you - there is no flex-gap property yet. Maybe/Hopeful
 
 Or you writhe that property on your own, by using a SASS mixin
 
-### 🙌 OR
+### 🙌  OR
 
 or just use mine instead! 🎉
 
