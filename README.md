@@ -8,11 +8,17 @@ What is really cool in grid (in my opinion) is the ability to use the grid-gap p
 
 ## Cool so let's use this everywhere!
 
-I am so sorry to tell you - there is no flex-gap property yet. Maybe/Hopefully it will come some day (if you know something about it being in development, why it does not exist yet, or maybe why there should not be such a thing, just let me know). If you wanna do that in Flexbox for example (which could be a valid use case), you have to use the "margin-first-child-last-child-approach"
+I am so sorry to tell you - there is no flex-gap property yet. Maybe/Hopefully it will come some day (if you know something about it being in development, why it does not exist yet, or maybe why there should not be such a thing, just let me know). If you wanna do that in Flexbox for example (which could be a valid use case), you have to select the first- and last-child of an element, and set their margin to 0.
+
+### or
+
+Or you writhe that property on your own, by using a SASS mixin
 
 ### 🙌 OR
 
-Or you writhe that property on your own, by using a SASS mixin - or just use mine instead! 🎉
+or just use mine instead! 🎉
+
+## Using a SASS Mixin
 
 Sooo, in SASS we're able to create Mixins, Functions, Loops and many other cool stuff, that we cannot use in CSS yet (I will also never become tired to say how much I love the tidy, clean look of SASS as well! 💘). Enough of the emojis! let's have a look at some code to realize, what I wrote about before.
 
@@ -55,7 +61,7 @@ If you add a direction to the mixin (for example column, if your Flexbox-Contain
 	
 ```
 
-By default the mixin will effect all divs, which are children of the container. If you flex-container items are of another element-type you could use the Mixins $element statement to set the related element-type or a class or an id as a selector.
+By default the mixin will effect all divs, which are children of the container. If your flex-container items are of another element-type you could use the Mixins $element statement to set the related element-type or a class or an id as a selector.
 
 ```sass
 
