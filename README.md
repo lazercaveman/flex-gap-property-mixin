@@ -1,4 +1,7 @@
-# flex-gap-property-mixin
+# flex-gap-property-mixin 
+‼️ **(deprecated, since meanwhile [gap property for flexbox](https://caniuse.com/?search=gap) exists)**
+
+.
 
 ## A gird-gap solution, working for Flexbox.
 
